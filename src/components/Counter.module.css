@@ -1,0 +1,9 @@
+.container{
+    background-color: azure;
+    margin:0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+}
